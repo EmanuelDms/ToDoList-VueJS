@@ -6,8 +6,8 @@
 - Bootstrap
 - JavaScript
 
-## Screenshots
-
+## Screenshots (GIF [28 seg])
+![Demo]('.github/demo.gif')
 
 ## Configuração do Projeto
 ```
