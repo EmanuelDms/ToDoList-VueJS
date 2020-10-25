@@ -7,7 +7,7 @@
 - JavaScript
 
 ## Screenshots (GIF [28 seg])
-![Demo]('.github/demo.gif')
+![Demo](.github/demo.gif)
 
 ## Configuração do Projeto
 ```
