@@ -1,23 +1,27 @@
-# vuejs-cli
+# vuejs-cli - A simple To Do List
 
-## Project setup
+## Tecnologias
+- VueJS
+  - CLI
+- Bootstrap
+- JavaScript
+
+## Screenshots
+
+
+## Configuração do Projeto
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilador e hot-reloads para desenvolvimento
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compila and minifica para produção
 ```
 yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
 ```
 
 ### Customize configuration
