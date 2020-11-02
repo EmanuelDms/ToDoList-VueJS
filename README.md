@@ -1,4 +1,5 @@
 # vuejs-cli - A simple To Do List
+_OBS: Este App pertence ao canal [Programador a bordo](https://youtu.be/cSa-SMVMGsE), feito para fins didáticos._
 
 ## Tecnologias
 - VueJS
